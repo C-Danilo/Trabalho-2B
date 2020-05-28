@@ -1,4 +1,4 @@
-package br.fepi.si.financeiro.model;
+package br.fepi.si.corrida.model;
 
 public interface Premiacao{
 	

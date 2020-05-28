@@ -1,4 +1,4 @@
-package br.fepi.si.financeiro.model;
+package br.fepi.si.corrida.model;
 
 import java.io.Serializable;
 import java.util.Date;
